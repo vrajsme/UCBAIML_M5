@@ -8,3 +8,20 @@ Following are my observations based on the analysis and visualization of the dat
 2.  Coffee House is the highest accepted coupon followed by restuarant (< 20)
 3.  College drop outs or some degree and bachelors degree are the highest that accepted coupons
 4.  Folks in the age groups of 21, 26 and 31 were the most that accepted the coupons
+
+Observations based on Coupon type "Bar": 
+1. Number that got Bar Coupons = 2017
+2. Number of Accepted Bar Coupons = 827
+3. Only 48% of folks who received the coupon type bar accepted the coupon
+4. Out of the total folks who accepted bar coupons,  31% went less than once to bar and 18% when more than once to a bar
+5. Ratio of Drivers visiting more than once with passangers not kids and not in Farming, Fishing and Forestory to total accepted is 47%
+6. Bar Accepted with No Kids and Windowed = 393
+7. Ratio of bar accepted with no kids and widowed to total bar accepted = 0.4752116082224909
+8. Bar Accepted with under the age of 30 = 249
+9. Ratio of bar accepted with under 30 to total bar accepted = 0.3010882708585248
+10. Bar couppn Accepted with cheap restuarant and income < 50k = 100
+11. Ratio of bar accepted with cheap restuarant and income < 50k to total bar accepted  = 0.12091898428053205
+12. Total bar acceped with No_kids_Widowed plus under 30 plus cheap restuarant with less 50k  = 742
+13. Ratio total bar acceped with No_kids_Widowed plus under 30 plus cheap restuarant with less 50k to total bar accepted  = 0.8972188633615478  
+
+In Summary - My observations is the largest group of drivers that accepted bar coupons do not have kids
