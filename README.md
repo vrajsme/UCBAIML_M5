@@ -25,3 +25,14 @@ Observations based on Coupon type "Bar":
 13. Ratio total bar acceped with No_kids_Widowed plus under 30 plus cheap restuarant with less 50k to total bar accepted  = 0.8972188633615478  
 
 In Summary - My observations is the largest group of drivers that accepted bar coupons do not have kids
+
+My Own investigations about coupon - 
+1. total records in data set 12684
+2. total records coupon accepted 7210
+3. Largest number of coupons that were accepted were for expiring in less than 1 day vs less than 2 hours,  this indicates that people wanted to get the coupon to be used at a later point then immediately vhile driving
+4. Most coupons were accepted by people in age group of 21, 26 and 31
+
+Investigations of Coffee House Coupon
+
+
+
