@@ -29,10 +29,11 @@ In Summary - My observations is the largest group of drivers that accepted bar c
 My Own investigations about coupon - 
 1. total records in data set 12684
 2. total records coupon accepted 7210
-3. Largest number of coupons that were accepted were for expiring in less than 1 day vs less than 2 hours,  this indicates that people wanted to get the coupon to be used at a later point then immediately vhile driving
+3. Largest number of coupons that were accepted were for expiring in less than 1 day vs less than 2 hours,  this indicates that people wanted to get the coupon to be used at a later point then immediately while driving
 4. Most coupons were accepted by people in age group of 21, 26 and 31
 
 Investigations of Coffee House Coupon: 
+
 From the investigation and observations:  most people who accepeted coffee shop coupons had visited coffee shop less than once and are single or married partner
 
 Further investigations on declined coupons it was observed that interestingly the coupon that was highest declined is Coffee House and second heighest is Bar
