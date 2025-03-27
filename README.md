@@ -32,7 +32,13 @@ My Own investigations about coupon -
 3. Largest number of coupons that were accepted were for expiring in less than 1 day vs less than 2 hours,  this indicates that people wanted to get the coupon to be used at a later point then immediately vhile driving
 4. Most coupons were accepted by people in age group of 21, 26 and 31
 
-Investigations of Coffee House Coupon
+Investigations of Coffee House Coupon: 
+From the investigation and observations:  most people who accepeted coffee shop coupons had visited coffee shop less than once and are single or married partner
 
+Further investigations on declined coupons it was observed that interestingly the coupon that was highest declined is Coffee House and second heighest is Bar
+
+Further investigations can be done to determine of coupon acceptance rate changes with the distance travelled
+
+Recommendations: Based on the data it suggests that the younger age group accepts the most coupons. 
 
 
