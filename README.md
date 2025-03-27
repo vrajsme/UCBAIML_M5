@@ -40,6 +40,6 @@ Further investigations on declined coupons it was observed that interestingly th
 
 Further investigations can be done to determine of coupon acceptance rate changes with the distance travelled
 
-Recommendations: Based on the data it suggests that the younger age group accepts the most coupons. 
+Recommendations: Based on the data it suggests that the younger age group accepts the most coupons.  We can also do further investigations on whether income impacted acceptance rate and type of employment vs unemployed who accepted the coupon. 
 
 
